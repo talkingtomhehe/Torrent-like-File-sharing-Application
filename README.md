@@ -9,6 +9,8 @@ This project implements a BitTorrent-like network system that allows users to up
 
 ## Installation
 1. Clone the repository to your local machine.
+   ```sh
+   git clone https://github.com/talkingtomhehe/Torrent-like-File-sharing-Application.git
 2. Install the required Python packages:
    ```sh
    pip install requests flask bencodepy
